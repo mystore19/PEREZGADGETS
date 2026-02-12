@@ -1,0 +1,21 @@
+ProductID,ProductName,Category,Brand,Price,Stock,ImageURL,DiscountPrice
+P001,BUSNEO 3,head set,,26000,1000,images/1.jpeg,0
+P002,BOSE,head set,,25000,1000,images/2.jpeg,0
+P003,NEW AGE POWER BANK 22.5W,power bank,new age,25500,1000,images/3.jpeg,0
+P004,iPhone 16 Pro max 256gb active,iphone,,1.8million,1000,images/4.jpeg,0
+P005,INTELLIGENT SOLAR PTZ CAMERA (TRIPPLE LENS),Solar CCTV,POLY VISION,110000,1000,images/5.jpeg,0
+P006,LED POCKET VIDEO ,photography/videography equipment,,15000,1000,images/6.jpeg,0
+P007,SMART WATCH STORM ULTRA,phone,ITEL,25500,1000,images/7.jpeg,0
+P008,CHARGING DOCK FOR PS 5,Games,DOBE,30000,1000,images/8.jpeg,0
+P009,LED SOFT RING LIGHT ,photography/videography equipment,,39000,1000,images/9.jpeg,0
+P010,RECHARGEABLE CLIPPER,,KIKI NEW GAIN,16000,1000,images/10.jpeg,0
+P011,BASS EARBUDS,head set,FOOMEE AUDIO,27000,1000,images/11.jpeg,0
+P012,WIRELESS SPEAKER,,,34000,1000,images/12.jpeg,0
+P013,STABLE SELFIE STICK QUADRUPOD,,,44000,1000,images/13.jpeg,0
+P014,KT4 PRO,Kids Tablet,ATOUCH,100000,1000,images/14.jpeg,0
+P015,MODIO KIDS TAB,Kids Tablet,,93000,1000,images/15.jpeg,0
+P016,SMART 8 PRO,Kids Tablet,TIKCOSS,95000,1000,images/16.jpeg,0
+P017,INFINIX HOT 60i ,phone,INFINIX,150000,1000,images/17.jpeg,0
+P018,ZEALOT S-67,head set,ZEALOT,85000,1000,images/18.jpeg,0
+P019,LED LIGHT KIT,photography/videography equipment,,55000,1000,images/19.jpeg,0
+P020,PS SERIES  MULTI FUNCTIONAL COOLING STAND,Games,,40000,1000,images/20.jpeg,0
