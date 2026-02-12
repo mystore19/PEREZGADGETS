@@ -1,5 +1,5 @@
 ProductID,ProductName,Category,Brand,Price,Stock,ImageURL,DiscountPrice
-P001,BUSNEO 3,head set,g,26000,1000,images/1.jpeg,0
+P001,BUSNEO 3,head set,g,26000,1000,image/1.jpeg,0
 P002,BOSE,head set,g,25000,1000,images/2.jpeg,0
 P003,NEW AGE POWER BANK 22.5W,power bank,new age,25500,1000,images/3.jpeg,0
 P004,iPhone 16 Pro max 256gb active,phone,iphone,1.8million,1000,images/4.jpeg,0
@@ -19,4 +19,5 @@ P017,INFINIX HOT 60i ,phone,INFINIX,150000,1000,images/17.jpeg,0
 P018,ZEALOT S-67,head set,ZEALOT,85000,1000,images/18.jpeg,0
 P019,LED LIGHT KIT,photography/videography equipment,f,55000,1000,images/19.jpeg,0
 P020,PS SERIES  MULTI FUNCTIONAL COOLING STAND,Games,f,40000,1000,images/20.jpeg,0
+
 
